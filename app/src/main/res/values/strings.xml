@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ResoluteAI</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="not_registered_signup_now">Not registered? SignUp Now</string>
+    <string name="verify">VERIFY</string>
+    <string name="resend_otp">Resend OTP</string>
+</resources>
